@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mercadud
 - 👀 I’m interested in rust and Godot development
-- 🌱 I’m currently learning Computer Science at H
+- 🌱 I’m currently learning Computer Science at Heritage College
 - 💞️ Contact me for anything
 
 <!---
